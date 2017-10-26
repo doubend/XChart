@@ -43,7 +43,7 @@ import org.knowm.xchart.internal.chartpart.Chart;
 
 /**
  * A helper class with static methods for saving Charts as bitmaps
- *
+ * 的点点滴滴
  * @author timmolter
  */
 public final class BitmapEncoder {
